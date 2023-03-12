@@ -1,0 +1,11 @@
+I create this website as my blog or portfolio.
+All pages was created by html/css
+Comments page was create by js.
+
+How work comments page
+
+1) You fill the form
+2) The local storage of page get this results and output it on left side.
+
+Even if you reload page with comments, the comments be there because its always in local storage of page 
+ 
